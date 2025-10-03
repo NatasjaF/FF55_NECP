@@ -24,9 +24,9 @@ This repository contains the data, scripts, and results associated with the stud
 1. Energy Policy Unit, School of Electrical & Computer Engineering, National Technical University of Athens, Athens, Greece  
 2. Basque Centre for Climate Change (BC3), Leioa, Spain  
 3. IKERBASQUE, Basque Foundation for Science, Plaza Euskadi 5, 48009 Bilbao, Spain  
-4. University of Geneva, Switzerland  
+4. Renewable Energy Systems group, Section of Earth and Environmental Sciences, Institute of Environmental Sciences, University of Geneva, Switzerland   
 5. CICERO Center for International Climate Research, Oslo, Norway  
-6. HOLISTIC PC  
+6. HOLISTIC PC, Athens, Greece
 
 ---
 

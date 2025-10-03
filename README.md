@@ -45,8 +45,8 @@ This repository contains the data, scripts, and results associated with the stud
 
 ## Repository Contents
 - `data/` – Input datasets and processed scenario results  
-- `scripts/` – R scripts for data processing and visualisation  
-- `figures/` – Generated plots used in the paper  
+- `scripts/` – R scripts for data processing and visualisation for GCAM-Europe 
+- `figures/` – All the plots used in the paper  
 
 
 ---

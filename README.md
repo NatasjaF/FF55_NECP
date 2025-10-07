@@ -48,5 +48,7 @@ This repository contains the data, scripts, and results associated with the stud
 - `scripts/` – R scripts for data processing and visualisation for GCAM-Europe 
 - `figures/` – All the plots used in the paper  
 
-
 ---
+
+## Supplementary Dataset
+Frilingou, N. (2025). Frilingou_et_al_2025_FF55_NECP_dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17258602
